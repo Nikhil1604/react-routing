@@ -1,0 +1,24 @@
+.header{
+ width: 1256px;
+ margin: auto;
+ background-color:tan
+}
+.header{
+
+}
+.header ul{
+    margin-top: 0;
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    justify-content: space-around;
+    list-style: none;
+    /* background-color: aqua; */
+   
+}
+ .txt{
+    text-decoration: none;
+    font-size: larger; 
+    color: black;
+    
+}
